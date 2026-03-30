@@ -1,1 +1,0 @@
-Contains the patent writeup
