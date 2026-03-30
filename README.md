@@ -23,7 +23,7 @@ Pumps and valves are automatically triggered
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="images/system_architecture.png" width="700"/>
+  <img src="Images/system_architecture.png" width="700"/>
 </p>
 
 <p align="center">
