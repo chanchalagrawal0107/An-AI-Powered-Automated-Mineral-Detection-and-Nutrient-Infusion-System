@@ -20,6 +20,16 @@ Raspberry Pi runs a Random Forest model
 Predictions determine irrigation & nutrient needs
 Pumps and valves are automatically triggered
 
+## 🏗️ System Architecture
+
+<p align="center">
+  <img src="images/system_architecture.png" width="700"/>
+</p>
+
+<p align="center">
+  <em>Figure: Arduino–Raspberry Pi based automated irrigation and nutrient infusion system</em>
+</p>
+
 🧠 Machine Learning Component
 The system uses a Random Forest Classifier to predict plant health and resource requirements.
 
